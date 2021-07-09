@@ -1,0 +1,9 @@
+{
+    "Id": "LVFasterPdaScan",
+    "DisplayName": "Faster PDA Scan",
+    "Author": "Luke Vo",
+    "Version": "1.0",
+    "Enable": true,
+    "Game": "Subnautica",
+    "AssemblyName": "LVFasterPdaScan.dll"
+}
